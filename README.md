@@ -7,7 +7,7 @@ ProNet is a minimal yet professional client-server application built in modern C
 
 A lightweight C++ client-server networking application built using the Winsock API on Windows. This project demonstrates the networking fundamentals, socket programming, and clean software design principles. The app simulates a basic professional networking platform where users can connect and exchange messages.
 
-## 💼 Purpose
+##  Purpose
 
 This project is designed to showcase:
 - Understanding of TCP socket communication using Winsock.
@@ -19,17 +19,17 @@ It can be extended to support multiple clients, user registration, or even integ
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ TCP connection between a client and server  
-✅ Modular code with `.cpp` and `.h` separation  
-✅ Basic message exchange functionality  
-✅ Winsock initialization and teardown  
-✅ Easily extensible architecture  
+ TCP connection between a client and server  
+ Modular code with `.cpp` and `.h` separation  
+ Basic message exchange functionality  
+ Winsock initialization and teardown  
+ Easily extensible architecture  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C++17
 - Winsock2 API
@@ -39,7 +39,7 @@ It can be extended to support multiple clients, user registration, or even integ
 
 ---
 
-## 🧾 Project Structure
+##  Project Structure
 ProNet/
 ├── client/
 │ ├── Client.cpp # Client logic implementation
@@ -56,16 +56,16 @@ ProNet/
 
 ---
 
-## ⚙️ Building the Project
+##  Building the Project
 
-### 📌 Requirements
+###  Requirements
 
 - [CMake ≥ 3.10](https://cmake.org/download/)
 - [Ninja](https://ninja-build.org/) or MinGW
 - MSYS2 / Git Bash terminal
 - Windows OS
 
-### 🔧 Setup Instructions
+###  Setup Instructions
 
 1. **Clone the repo**  
    ```bash
